@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Pink Floyd</title>
+</head>
+
+<body>
+    <header>
+        <h1>Pink Floyd</h1>
+    </header>
+    <main>
+
+        <div>
+            <section>
+                <h2>Integrantes</h2>
+                <p>
+                <h3>Los integrantes originales de Pink Floyd fueron:</h3>
+                <ul>
+                    <li>Syd Barrett</li>
+                    <li>Roger Waters</li>
+                    <li>Richard Wright</li>
+                    <li>Nick Mason</li>
+                </ul>
+                </p>
+                <p>
+                <h3>Luego del primer disco, la formación fue:</h3>
+                <ul>
+                    <li>Roger Waters</li>
+                    <li>David Gilmour</li>
+                    <li>Richard Wright</li>
+                    <li>Nick Mason</li>
+                </ul>
+                </p>
+            </section>
+        </div>
+        <div>
+            <section>
+                <h2>Breve biografía de la banda</h2>
+                <p>Pink Floyd fue una banda de rock británica, fundada en Londres en 1965. Es considerada un icono
+                    cultural <br>del siglo xx y una de las bandas más influyentes y aclamadas en la historia de la
+                    música,
+                    que obtuvo gran<br> popularidad gracias a su música psicodélica que evolucionó hacia el rock
+                    progresivo
+                    y rock sinfónico con<br> el paso del tiempo. Es conocida por sus canciones de alto contenido
+                    filosófico,
+                    la experimentación sónica<br> las innovadoras portadas de sus discos y sus elaborados espectáculos
+                    en
+                    vivo.</p>
+            </section>
+        </div>
+        <div>
+            <section>
+                <h2>Discografía</h2>
+                <p>Su discografia es muy extensa, contando con 15 álbumes de estudio y numerosas grabaciones en vivo,
+                    entre<br> los más destacables están The Wall, The Dark Side of the Moon, Animals, y muchos otros.
+                </p>
+            </section>
+        </div>
+        <div>
+            <section>
+                <h2>Galeria de imágenes</h2>
+                <img
+                    src="https://www.latercera.com/resizer/pHr8Mk5wdRn2q1NS_DDiNPAAJ9s=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/G64IXYHH7ZDDHFEFIZ5JQH4P6Q.jpg"><br>
+                <img
+                    src="https://www.latercera.com/resizer/bkV4QTZepK3iZscbF6Zg4FwguaE=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/UIVDIKYALNH2ZJ5NC64FCC3BCM.jpg">
+            </section>
+        </div>
+        <div>
+            <section>
+                <h2>Su música en Spotify</h2><br>
+                <iframe src="https://open.spotify.com/embed/artist/0k17h0D3J5VfsdmQ1iZtE9" width="320" height="400"
+                    frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            </section>
+        </div>
+        <div>
+            <section>
+                <h2>Un video de su concierto en Pompeii</h2>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/y-E7_VHLvkE" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </section>
+        </div>
+        <div>
+            <section>
+                <a href="https://www.pinkfloyd.com/home.php">
+                    <h3>Página oficial de la banda.</h3>
+                </a>
+            </section>
+        </div>
+    </main>
+
+</body>
+
+</html>
